@@ -13,6 +13,7 @@
 		951669C523FAC7CB00D5887C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 951669C423FAC7CB00D5887C /* Assets.xcassets */; };
 		951669C823FAC7CB00D5887C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 951669C723FAC7CB00D5887C /* Preview Assets.xcassets */; };
 		951669CB23FAC7CB00D5887C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 951669C923FAC7CB00D5887C /* LaunchScreen.storyboard */; };
+		951669D323FAC86E00D5887C /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951669D223FAC86E00D5887C /* Score.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		951669C723FAC7CB00D5887C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		951669CA23FAC7CB00D5887C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		951669CC23FAC7CB00D5887C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		951669D223FAC86E00D5887C /* Score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				951669C923FAC7CB00D5887C /* LaunchScreen.storyboard */,
 				951669CC23FAC7CB00D5887C /* Info.plist */,
 				951669C623FAC7CB00D5887C /* Preview Content */,
+				951669D223FAC86E00D5887C /* Score.swift */,
 			);
 			path = InstanceMethodsAndStaticProperties;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				951669BF23FAC7CA00D5887C /* AppDelegate.swift in Sources */,
 				951669C123FAC7CA00D5887C /* SceneDelegate.swift in Sources */,
+				951669D323FAC86E00D5887C /* Score.swift in Sources */,
 				951669C323FAC7CA00D5887C /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
